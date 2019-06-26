@@ -17,7 +17,9 @@
 ![mobx](img/mobx1.png)
 
 #### 你将要了解到：
-**observable, autorun, computed, action, configure —— mobx **   <br>  **observer  —— mobx-react** 
+**observable, autorun, computed, action, configure —— mobx **
+
+<br>**observer  —— mobx-react** 
 
 
 #### 准备工作
