@@ -27,7 +27,7 @@ class Mobx extends React.Component {
                 <br /><hr />
                 <Main store={newState} />
                 <br /><hr />
-                <button onClick={newState.empty}>清空</button>
+                <button onClick={newState.empty}>清零</button>
             </>
         );
     }
