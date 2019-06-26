@@ -18,6 +18,9 @@
 
 #### 你将要了解到：
 **observable, autorun, computed, action, configure —— mobx**
+
+ <br>
+
 **observer  ——  mobx-react** 
 
 
