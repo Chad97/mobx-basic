@@ -179,4 +179,5 @@ redux教程链接 https://blog.csdn.net/Chad97/article/details/89522403
 
 最后 大家可以 clone 我的deom 教程作为参考哦~ 
 https://github.com/Chad97/mobx-basic
+
 喜欢的 大爷点个star 哦~
